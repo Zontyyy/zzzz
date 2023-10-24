@@ -1,7 +1,0 @@
-name: TechApp
-main: com.zonty.Main.Main
-version: 1.0
-commands:
-   trample:
-      description: Your description
-      usage: /trample
